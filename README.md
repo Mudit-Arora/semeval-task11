@@ -2,7 +2,7 @@
 Repo for all the codebase worked on different tracks for the SemEval
 
 ## Team Members
-Mudit Arora, Yousuf Golding
+Mudit Arora (muarora@ucsc.edu), Yousuf Golding (ygolding@ucsc.edu)
 
 ## Prerequisites
 - Python 3.x
@@ -26,3 +26,11 @@ Mudit Arora, Yousuf Golding
 
 ## Usage
 To run the python file, check the specific file name you want to run, and make sure you're in the correct folder where the csv files are. 
+
+For example, if you want to run Track A, you'll just type 
+```sh
+    python semeval_a.py
+```
+- No need to provide any additonal arguments as long as you in the correct folder.
+
+Questions? Please reach out to our emails. Thanks!
