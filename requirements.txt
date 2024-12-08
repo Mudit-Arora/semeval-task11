@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+scikit-learn
+transformers
+tqdm
+sentencepiece
+sacremoses
+gensim
